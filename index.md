@@ -4,11 +4,17 @@ layout: page
 
 # About Me
 
-<img src="https://louisnor.github.io/images/IMG_7398.JPG" class="floatpic" width="340" height="480">
+<img src="https://louisnor.github.io/images/IMG_7398.JPG" class="floatpic"  height="390">
+// width=340
 
+<br>
 Here is **Tijue Wang (王体珏)**.
-
-I am a research associate working on **Deep Learning** in the Laboratory of Measurement and Sensor System Technique at TU Dresden, Germany. I am interested in the applications of **Machine Learning** in computational imaging and material science. Here is [[my CV](https://louisnor.github.io/file/CV_Wang_.pdf)].
+<br>
+I am a research associate working on the **applications of Deep Learning** in the Laboratory of Measurement and Sensor System Technique (MST) at TU Dresden, Germany. 
+<br>
+I am interested in the applications of **Machine Learning** in computational imaging and material science. 
+<br>
+Here is [[my CV](https://louisnor.github.io/file/CV_Wang_.pdf)].
 
 <br>
 
@@ -23,7 +29,7 @@ I am a research associate working on **Deep Learning** in the Laboratory of Meas
 
 ## Research Interests
 
-- Machine Learning/Deep Learning
+- Machine Learning / Deep Learning
 - Computational Imaging
 - Material Science and Engineering
 
