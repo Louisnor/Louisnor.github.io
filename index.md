@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<!i--mg src="https://louisnor.github.io/images/IMG_7398.JPG" class="floatpic"  height="370"-->
+<!--img src="https://louisnor.github.io/images/IMG_7398.JPG" class="floatpic"  height="370"-->
 
 <br>
 Here is **Tijue Wang (王体珏)**.
