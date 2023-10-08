@@ -20,7 +20,7 @@ Here is [[my CV](https://louisnor.github.io/file/CV_Wang.pdf)].
 
 <br>
 
-## Education
+## Academic Background
 
 - **Sep 2013 - June 2017:** Wuhan University of Science and Technology (BEng)
 - **Oct 2018 - Nov 2021:** TU Dresden (Dipl.-Ing.)
