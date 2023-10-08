@@ -10,13 +10,12 @@ layout: page
 <br>
 Here is **Tijue Wang (王体珏)**.
 
-
+<br>
 I am a research associate working on the **applications of Deep Learning** in the Laboratory of Measurement and Sensor System Technique (MST) at TU Dresden, Germany. 
 
 <br>
 I am interested in the applications of **Machine Learning** in computational imaging and material science. 
-
-
+<br>
 Here is [[my CV](https://louisnor.github.io/file/CV_Wang.pdf)].
 
 <br>
