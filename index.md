@@ -4,11 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://louisnor.github.io/images/IMG_7398.JPG" class="floatpic"  height="370">
-
+<!i--mg src="https://louisnor.github.io/images/IMG_7398.JPG" class="floatpic"  height="370"-->
 
 <br>
-
 Here is **Tijue Wang (王体珏)**.
 
 <br>
@@ -25,7 +23,7 @@ Here is [[my CV](https://louisnor.github.io/file/CV_Wang.pdf)].
 ## Education
 
 - **Sep 2013 - June 2017:** Wuhan University of Science and Technology (BEng)
-- **Oct 2018 - Nov 2021:** TU Dresden (Diplom)
+- **Oct 2018 - Nov 2021:** TU Dresden (Dipl.-Ing.)
 
 <br>
 
